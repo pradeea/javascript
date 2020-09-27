@@ -19,7 +19,10 @@ function switchExam(val)
             case 4:
                 return 'this is the last one'
                 break;
-                
+            
+           case 5:
+                default 'no matches try again'   
+                break;
         }
 
         return answer;
